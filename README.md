@@ -1,4 +1,4 @@
-# IMDB-Data-set-using-pandas
+# IMDB-Data analysis using Pandas
 
 
 ## 📄 Project Overview  
